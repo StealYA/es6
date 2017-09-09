@@ -1,3 +1,0 @@
-tortoisegit            http://download.tortoisegit.org/
-
-git-for-windows        https://git-for-windows.github.io/
